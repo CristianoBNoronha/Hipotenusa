@@ -1,4 +1,4 @@
-# Hipotenusa
+# Hypotenuse
 Exercise following Python course specifications, to calculate hypotenuse.
 
 <a>
